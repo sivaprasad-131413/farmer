@@ -1,0 +1,91 @@
+.bg-container{
+    background-color:  #ffa23e;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+.container
+{
+  padding:5%;
+  text-align: center;
+
+}
+.card{
+    text-align: center;
+    background-color: #ffffff;
+    border: 5px solid;
+    border-color:black;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 150px;
+    width: 800px;
+    height: 1030px;
+    margin-top: 10px;
+}
+.col-lg-6
+{
+}
+.row{
+  text-align: left;
+  padding:3%;
+}
+.row-2
+{
+  text-align: left;
+  padding-top:0px;
+  padding-left:3%;
+}
+.text{
+  padding-bottom: 20px;
+}
+.box{
+  height:40px;
+  width:300px;
+}
+.left-text
+{
+  padding-right:10px;
+}
+.box
+{
+  padding-left: 10px;
+}
+.form-label{
+    margin: 20px;
+}
+
+.signin{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.carousel-card-container{
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-radius: 25px;
+}
+
+.carousel-img{
+    height: 250px;
+    width:50px ;
+}
+.button
+{
+  padding-top:10px;
+   padding-bottom:30px;
+}
+
+.btn{
+    background-color:green;
+    color: #ffffff;
+    border-radius: 15px;
+    height: 40px;
+    width: 150px;
+    border: 0px;
+    padding-bottom:20px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
